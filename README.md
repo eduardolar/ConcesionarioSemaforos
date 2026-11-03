@@ -1,5 +1,7 @@
 # Concesionario con semáforos
 
+[![Compilación](https://github.com/eduardolar/ConcesionarioSemaforos/actions/workflows/ci.yml/badge.svg)](https://github.com/eduardolar/ConcesionarioSemaforos/actions/workflows/ci.yml) ![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
+
 Ejercicio de concurrencia en Java. Simula un concesionario con un número fijo de vehículos de prueba y varios clientes que llegan a la vez, cada uno en su propio hilo.
 
 ## Cómo funciona
